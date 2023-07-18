@@ -48,10 +48,3 @@ sudo nvidia-ctk runtime configure --runtime=docker
 
 sudo systemctl restart docker
 ```
-
-## 便捷脚本
-
-
-跟随上面的步骤，下面给出便捷脚本。
-
-
